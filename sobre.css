@@ -6,8 +6,9 @@ body{
     color: #3d3d3d;
 }
 
-h1 {
+.titulo {
     padding: 10px;
+    font-size: 32px;
     background-color: #E1EDF2;
 }
 
