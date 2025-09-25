@@ -35,3 +35,17 @@ figure img{
     margin-left: auto;
     margin-right: auto;
 }
+    .criadores{
+ width: 275px;
+ float: right;
+}
+ 
+figure img{
+    width: 100%;
+}
+ 
+.logo{
+    width: 100px;
+    float: left;
+}
+
